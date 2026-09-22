@@ -1,0 +1,60 @@
+username: RadianceL
+updatedAt: 2026-09-22T14:36:42.441Z
+skills: {}
+prompts: 25
+tokens:
+  input: 0
+  output: 0
+  cacheRead: 0
+  cacheCreation: 0
+daily:
+  2026-09-15:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 21461119
+    cacheEligibleInputTokens: 24380002
+  2026-09-17:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 198912
+    cacheEligibleInputTokens: 248786
+  2026-09-20:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 735330
+    cacheEligibleInputTokens: 1302763
+  2026-09-21:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 30762880
+    cacheEligibleInputTokens: 32437065
+  2026-09-22:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 25
+    durationMs: 2336248
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 3328
+    cacheEligibleInputTokens: 46990
